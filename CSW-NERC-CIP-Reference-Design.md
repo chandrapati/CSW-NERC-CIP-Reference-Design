@@ -153,7 +153,7 @@ Execute these phases for **this framework's** compliance boundary. Map exports t
 
 ### What CSW evidence does not replace
 
-Physical access, HR/training records, encryption key management, signed BAAs/vendor contracts, formal pen tests, and assessor attestation still require separate programmes. CSW addresses the **workload-resident** slice: segmentation, flows, process context, vuln reachability, and change drift.
+Physical access, HR/training records, encryption key management, signed vendor and processor contracts, formal pen tests, and assessor attestation still require separate programmes. CSW addresses the **workload-resident** slice: segmentation, flows, process context, vuln reachability, and change drift.
 
 ---
 
